@@ -1,0 +1,23 @@
+{
+  "name": "studysession",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  
+  
+  "scripts": {
+    "start": "node index.js"
+
+
+
+
+
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
